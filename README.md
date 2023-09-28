@@ -14,7 +14,7 @@ This repository encompasses the code and resources for my project on "Text-Based
 
 - 📊 **Performance:** The project provides an extensive analysis of the model's performance, including accuracy, precision, recall, F1-score, and confusion matrices, showcasing its ability to accurately classify emotions in text.
 
-- 📄 **Code:** This repository contains the Python code used for data preprocessing, model training, and emotion detection on new text inputs. The code is accessible for those interested in reproducing the experiments or further extending the project.
+- 📄 **Code:** This repository contains the Python code used for data preprocessing, model training, and model evaluation. The code is accessible for those interested in reproducing the experiments or further extending the project.
 
 # Research Paper
 - 📄 **Emotion Detection in Text Using Convolutional Neural Network:** You can find the research paper at https://ieeexplore.ieee.org/document/9967913
