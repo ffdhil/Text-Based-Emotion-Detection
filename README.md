@@ -19,7 +19,7 @@ This repository encompasses the code and resources for my project on "Text-Based
 # Research Paper
 - 📄 **Emotion Detection in Text Using Convolutional Neural Network:** You can find the research paper at https://ieeexplore.ieee.org/document/9967913
 
-- - 📄 **Text-Based Emotion Detection using CNN-BiLSTM:** You can find the research paper at https://ieeexplore.ieee.org/document/10031370
+- 📄 **Text-Based Emotion Detection using CNN-BiLSTM:** You can find the research paper at https://ieeexplore.ieee.org/document/10031370
 
 **Citation:**
 - If you find this project or the research paper valuable for your work, please consider citing it in your research or publications.
