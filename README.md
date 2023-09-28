@@ -10,7 +10,7 @@ This repository encompasses the code and resources for my project on "Text-Based
 
 - 📁 **Dataset:** This project used a dataset containing comments about CommuterLine and Transjakarta. The dataset divided into 3 types: CommuterLine, Transjakarta, and combionation of both.
 
-- 🤖 **Model:** This pproject implemented Convolutional Neural Network (CNN) and CNN + BiLSTM architecture and combined it with Word Embedding Glove and Word2Vec tailored for text analysis, demonstrating the effectiveness of deep learning techniques in capturing emotional cues from textual data.
+- 🤖 **Model:** This project implemented Convolutional Neural Network (CNN) and CNN + BiLSTM architecture and combined it with Word Embedding Glove and Word2Vec tailored for text analysis, demonstrating the effectiveness of deep learning techniques in capturing emotional cues from textual data.
 
 - 📊 **Performance:** The project provides an extensive analysis of the model's performance, including accuracy, precision, recall, F1-score, and confusion matrices, showcasing its ability to accurately classify emotions in text.
 
